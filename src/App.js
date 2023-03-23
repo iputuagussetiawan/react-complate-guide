@@ -16,7 +16,6 @@ const DUMMY_EXPENSES=[
     id:'e2',
   },
   {
-    
     title:"Food",
     amount:239,
     date:new Date(2023,2,28),
