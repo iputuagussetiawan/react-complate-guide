@@ -21,8 +21,8 @@ import ExpensesFilter from './ExpensesFilter';
           <ExpenseItem  
             title={expense.title} 
             amount={expense.amount} 
-            date={expense.date
-          }/>
+            date={expense.date}
+          />
         ))}
     </div>
   )
